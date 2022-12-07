@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idProjeto: 1
+  dataInicio: 2022-12-07 09:05:43
+  dataFinalizacao: 2022-12-07 09:05:43
+  nome: MyString
+  references: 
+
+two:
+  idProjeto: 1
+  dataInicio: 2022-12-07 09:05:43
+  dataFinalizacao: 2022-12-07 09:05:43
+  nome: MyString
+  references: 
